@@ -15,7 +15,7 @@
 					"raw": ""
 				},
 				"url": {
-					"raw": "https://www.google.com/search?q=sapphire",
+					"raw": "https://www.google.com/search?q=ruby",
 					"protocol": "https",
 					"host": [
 						"www",
@@ -28,7 +28,7 @@
 					"query": [
 						{
 							"key": "q",
-							"value": "sapphire"
+							"value": "ruby"
 						}
 					]
 				}
