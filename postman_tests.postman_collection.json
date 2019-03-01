@@ -1,0 +1,39 @@
+{
+	"info": {
+		"_postman_id": "a104b21c-201a-434e-ab0e-0559323600b6",
+		"name": "postman_tests",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Google Search for Gems",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "https://www.google.com/search?q=sapphire",
+					"protocol": "https",
+					"host": [
+						"www",
+						"google",
+						"com"
+					],
+					"path": [
+						"search"
+					],
+					"query": [
+						{
+							"key": "q",
+							"value": "sapphire"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
